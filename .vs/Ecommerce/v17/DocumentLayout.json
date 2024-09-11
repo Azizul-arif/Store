@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\powersoft\\Store\\Store\\",
+  "WorkspaceRootPath": "D:\\powersoft\\Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\store\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\store\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\powersoft\\Store\\Store\\Data\\Migrations\\20240911060347_ProductSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240911060347_ProductSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\store\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\store\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\store\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\store\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\store\\data\\migrations\\20240911060347_productseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:data\\migrations\\20240911060347_productseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,41 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "20240911060347_ProductSeed.cs",
-              "DocumentMoniker": "D:\\powersoft\\Store\\Store\\Data\\Migrations\\20240911060347_ProductSeed.cs",
+              "DocumentMoniker": "D:\\powersoft\\Store\\Data\\Migrations\\20240911060347_ProductSeed.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240911060347_ProductSeed.cs",
-              "ToolTip": "D:\\powersoft\\Store\\Store\\Data\\Migrations\\20240911060347_ProductSeed.cs",
+              "ToolTip": "D:\\powersoft\\Store\\Data\\Migrations\\20240911060347_ProductSeed.cs",
               "RelativeToolTip": "Data\\Migrations\\20240911060347_ProductSeed.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T06:03:47.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T06:03:47.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\Store\\Store\\Views\\Shared\\_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\Store\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "D:\\powersoft\\Store\\Store\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\powersoft\\Store\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AQIAAEcBAAAAAAAAAAAAAHMBAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T15:23:20.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T15:23:20.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\Store\\Store\\Views\\Product\\Delete.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\Store\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
-              "ToolTip": "D:\\powersoft\\Store\\Store\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\powersoft\\Store\\Views\\Product\\Delete.cshtml",
               "RelativeToolTip": "Views\\Product\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -84,11 +90,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\Store\\Store\\Views\\Product\\Update.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\Store\\Views\\Product\\Update.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Update.cshtml",
-              "ToolTip": "D:\\powersoft\\Store\\Store\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\powersoft\\Store\\Views\\Product\\Update.cshtml",
               "RelativeToolTip": "Views\\Product\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -96,24 +102,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\Store\\Store\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\Store\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\powersoft\\Store\\Store\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\powersoft\\Store\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T15:11:31.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T15:11:31.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\powersoft\\Store\\Store\\Data\\Category.cs",
+              "DocumentMoniker": "D:\\powersoft\\Store\\Data\\Category.cs",
               "RelativeDocumentMoniker": "Data\\Category.cs",
-              "ToolTip": "D:\\powersoft\\Store\\Store\\Data\\Category.cs",
+              "ToolTip": "D:\\powersoft\\Store\\Data\\Category.cs",
               "RelativeToolTip": "Data\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\Store\\Store\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\Store\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
-              "ToolTip": "D:\\powersoft\\Store\\Store\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\powersoft\\Store\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Views\\Product\\Create.cshtml",
               "ViewState": "AQIAABkAAAAAAAAAAAAIwCEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -134,13 +139,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\powersoft\\Store\\Store\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\powersoft\\Store\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "D:\\powersoft\\Store\\Store\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\powersoft\\Store\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADgvw4AAAAfAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T14:14:59.097Z",
               "EditorCaption": ""
