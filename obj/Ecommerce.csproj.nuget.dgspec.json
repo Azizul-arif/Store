@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\powersoft\\EcommPrac\\Ecommerce\\Ecommerce.csproj": {}
+    "D:\\powersoft\\Store\\Store\\Ecommerce.csproj": {}
   },
   "projects": {
-    "D:\\powersoft\\EcommPrac\\Ecommerce\\Ecommerce.csproj": {
+    "D:\\powersoft\\Store\\Store\\Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\powersoft\\EcommPrac\\Ecommerce\\Ecommerce.csproj",
+        "projectUniqueName": "D:\\powersoft\\Store\\Store\\Ecommerce.csproj",
         "projectName": "Ecommerce",
-        "projectPath": "D:\\powersoft\\EcommPrac\\Ecommerce\\Ecommerce.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\powersoft\\EcommPrac\\Ecommerce\\obj\\",
+        "projectPath": "D:\\powersoft\\Store\\Store\\Ecommerce.csproj",
+        "packagesPath": "C:\\Users\\ZBG\\.nuget\\packages\\",
+        "outputPath": "D:\\powersoft\\Store\\Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ZBG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

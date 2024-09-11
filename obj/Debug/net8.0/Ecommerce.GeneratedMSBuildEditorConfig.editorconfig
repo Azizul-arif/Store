@@ -17,103 +17,103 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ecommerce
 build_property.RootNamespace = Ecommerce
-build_property.ProjectDir = D:\powersoft\EcommPrac\Ecommerce\
+build_property.ProjectDir = D:\powersoft\Store\Store\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\powersoft\EcommPrac\Ecommerce
+build_property.MSBuildProjectDirectory = D:\powersoft\Store\Store
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/powersoft/Store/Store/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Admin/Index.cshtml]
+[D:/powersoft/Store/Store/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Category/Create.cshtml]
+[D:/powersoft/Store/Store/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Category/Delete.cshtml]
+[D:/powersoft/Store/Store/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Category/Index.cshtml]
+[D:/powersoft/Store/Store/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Category/Update.cshtml]
+[D:/powersoft/Store/Store/Views/Category/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Color/Create.cshtml]
+[D:/powersoft/Store/Store/Views/Color/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Color/Delete.cshtml]
+[D:/powersoft/Store/Store/Views/Color/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Color/Index.cshtml]
+[D:/powersoft/Store/Store/Views/Color/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Color/Update.cshtml]
+[D:/powersoft/Store/Store/Views/Color/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Home/Index.cshtml]
+[D:/powersoft/Store/Store/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Home/Privacy.cshtml]
+[D:/powersoft/Store/Store/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Product/Create.cshtml]
+[D:/powersoft/Store/Store/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Product/Delete.cshtml]
+[D:/powersoft/Store/Store/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Product/Index.cshtml]
+[D:/powersoft/Store/Store/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Product/Update.cshtml]
+[D:/powersoft/Store/Store/Views/Product/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Shared/Error.cshtml]
+[D:/powersoft/Store/Store/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Shared/_AdminLayout.cshtml]
+[D:/powersoft/Store/Store/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Shared/_LoginPartial.cshtml]
+[D:/powersoft/Store/Store/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/powersoft/Store/Store/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/_ViewImports.cshtml]
+[D:/powersoft/Store/Store/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/_ViewStart.cshtml]
+[D:/powersoft/Store/Store/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/powersoft/EcommPrac/Ecommerce/Views/Shared/_Layout.cshtml]
+[D:/powersoft/Store/Store/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jnmo08unka
