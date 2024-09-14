@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\powersoft\\EcommPrac\\Ecommerce\\Ecommerce.csproj": {}
+    "D:\\powersoft\\Store\\Ecommerce.csproj": {}
   },
   "projects": {
-    "D:\\powersoft\\EcommPrac\\Ecommerce\\Ecommerce.csproj": {
+    "D:\\powersoft\\Store\\Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\powersoft\\EcommPrac\\Ecommerce\\Ecommerce.csproj",
+        "projectUniqueName": "D:\\powersoft\\Store\\Ecommerce.csproj",
         "projectName": "Ecommerce",
-        "projectPath": "D:\\powersoft\\EcommPrac\\Ecommerce\\Ecommerce.csproj",
+        "projectPath": "D:\\powersoft\\Store\\Ecommerce.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\powersoft\\EcommPrac\\Ecommerce\\obj\\",
+        "outputPath": "D:\\powersoft\\Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,10 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

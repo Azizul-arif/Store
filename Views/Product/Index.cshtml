@@ -34,11 +34,11 @@
                                         <td>@item.Name</td>
                                         <td>@item.Price</td>
                                         <td>@item.Description</td>
-                                        <td>@item.CategoryId</td>
+                                        <td>@item.Category.CategoryName</td>
                                         <td>
                                             <ul class="list-inline">
-                                                <li class="list-inline-item"><a class="btn btn-primary" asp-action="Update" asp-controller="Category" asp-route-categorydata="@item.Id">Edit</a></li>
-                                                <li class="list-inline-item"><a class="btn btn-danger" asp-action="Delete" asp-controller="Category" asp-route-categorydata="@item.Id">Delete</a></li>
+                                                <li class="list-inline-item"><a class="btn btn-primary" asp-action="Update" asp-controller="Category" asp-route-productId="@item.Id">Edit</a></li>
+                                                <li class="list-inline-item"><a class="btn btn-danger" asp-action="Delete" asp-controller="Category" asp-route-productId="@item.Id">Delete</a></li>
                                             </ul>
                                         </td>
                                     </tr>
