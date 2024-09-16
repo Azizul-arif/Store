@@ -8221,6 +8221,458 @@
       "PackagePath": "staticwebassets\\Admin\\plugins\\uplot\\uPlot.min.css"
     },
     {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Common\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Common\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\css\\dark-theme.css",
+      "PackagePath": "staticwebassets\\Common\\assets\\css\\dark-theme.css"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\css\\pace.min.css",
+      "PackagePath": "staticwebassets\\Common\\assets\\css\\pace.min.css"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Common\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\apple-store.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\apple-store.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\avatars\\01.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\avatars\\01.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\best-sellar\\01.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\best-sellar\\01.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\best-sellar\\02.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\best-sellar\\02.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\best-sellar\\03.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\best-sellar\\03.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\best-sellar\\04.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\best-sellar\\04.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\best-sellar\\05.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\best-sellar\\05.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\blog\\01.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\blog\\01.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\blog\\02.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\blog\\02.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\blog\\03.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\blog\\03.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\01.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\01.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\02.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\02.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\03.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\03.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\04.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\04.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\05.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\05.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\06.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\06.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\07.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\07.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\08.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\08.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\09.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\09.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\10.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\10.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\11.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\11.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\12.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\12.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\13.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\13.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\14.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\14.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\brands\\15.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\brands\\15.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\categories\\01.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\categories\\01.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\categories\\02.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\categories\\02.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\categories\\03.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\categories\\03.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\categories\\04.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\categories\\04.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\categories\\05.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\categories\\05.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\categories\\06.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\categories\\06.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\extra-images\\promo-large.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\extra-images\\promo-large.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\favicon-32x32.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\favicon-32x32.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\featured-products\\01.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\featured-products\\01.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\featured-products\\02.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\featured-products\\02.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\featured-products\\03.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\featured-products\\03.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\featured-products\\04.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\featured-products\\04.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\featured-products\\05.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\featured-products\\05.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\featured-products\\06.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\featured-products\\06.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\featured-products\\07.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\featured-products\\07.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\featured-products\\08.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\featured-products\\08.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\icons\\delivery.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\icons\\delivery.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\icons\\money-bag.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\icons\\money-bag.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\icons\\paypal.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\icons\\paypal.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\icons\\support.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\icons\\support.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\logo.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\logo.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\menu-img.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\menu-img.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\01.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\01.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\02.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\02.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\03.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\03.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\04.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\04.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\05.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\05.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\06.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\06.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\07.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\07.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\08.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\08.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\09.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\09.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\new-arrival\\10.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\new-arrival\\10.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\play-store.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\play-store.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\product-images\\01.jpg",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\product-images\\01.jpg"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\product-images\\02.jpg",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\product-images\\02.jpg"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\product-images\\03.jpg",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\product-images\\03.jpg"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\product-images\\04.jpg",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\product-images\\04.jpg"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\product-images\\05.jpg",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\product-images\\05.jpg"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\product-images\\06.jpg",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\product-images\\06.jpg"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\product-images\\07.jpg",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\product-images\\07.jpg"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\product-images\\08.jpg",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\product-images\\08.jpg"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\sliders\\s_0.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\sliders\\s_0.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\sliders\\s_1.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\sliders\\s_1.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\sliders\\s_2.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\sliders\\s_2.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\sliders\\s_3.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\sliders\\s_3.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\sliders\\s_4.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\sliders\\s_4.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\sliders\\s_5.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\sliders\\s_5.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\special-offer\\01.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\special-offer\\01.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\special-offer\\02.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\special-offer\\02.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\special-offer\\03.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\special-offer\\03.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\special-offer\\04.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\special-offer\\04.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\special-offer\\05.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\special-offer\\05.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\trending-product\\01.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\trending-product\\01.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\trending-product\\02.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\trending-product\\02.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\trending-product\\03.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\trending-product\\03.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\trending-product\\04.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\trending-product\\04.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\images\\trending-product\\05.webp",
+      "PackagePath": "staticwebassets\\Common\\assets\\images\\trending-product\\05.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Common\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\js\\loader.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\js\\loader.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\js\\pace.min.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\js\\shop-grid.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\js\\shop-grid.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Common\\assets\\plugins\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Images\\0_1RJ5Wvyh4vzbRZ3o.png",
+      "PackagePath": "staticwebassets\\Images\\0_1RJ5Wvyh4vzbRZ3o.png"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Images\\0_1RJ5Wvyh4vzbRZ3o_7.png",
+      "PackagePath": "staticwebassets\\Images\\0_1RJ5Wvyh4vzbRZ3o_7.png"
+    },
+    {
       "Id": "D:\\powersoft\\Store\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

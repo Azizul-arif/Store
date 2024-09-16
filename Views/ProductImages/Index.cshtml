@@ -5,6 +5,12 @@
     ViewData["Title"] = "Product Images";
 }
 
+<style>
+    .img-table{
+        height:25%;
+        width:25%;
+    }
+</style>
 <section class="content">
     <div class="container-fluid">
         <div class="row">
@@ -21,7 +27,8 @@
                                     <th>Id</th>
                                     <th>ImagePath</th>
                                     <th>Category</th>
-                                    <th>Image</th>
+                                    <th style="width:25%;">Image</th>
+                                    <th>Action</th>
                                     
                                 </tr>
                             </thead>
@@ -30,8 +37,10 @@
                                 {
                                     <tr>
                                         <td>@item.Id</td>
-                                        <td>@item.ProductID</td>
                                         <td>@item.ImagePath</td>
+                                        <td>@item.Product.Category.CategoryName</td>
+                                        <td><img class="img-table" src="@item.ImagePath" alt="image" /></td>
+                                        
                                         
                                         <td>
                                             <ul class="list-inline">
