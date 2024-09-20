@@ -14,6 +14,7 @@ namespace Ecommerce.Data
         [ForeignKey("Category")]
         public int CategoryId { get; set; }
         public Category? Category { get; set; }
+        public List<ProductImages> ProductImages { get; set; }
         
     }
 }

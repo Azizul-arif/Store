@@ -8665,12 +8665,28 @@
       "PackagePath": "staticwebassets\\Common\\assets\\plugins\\slick\\slick.scss"
     },
     {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Images\\03.webp",
+      "PackagePath": "staticwebassets\\Images\\03.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Images\\05.webp",
+      "PackagePath": "staticwebassets\\Images\\05.webp"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Images\\06.webp",
+      "PackagePath": "staticwebassets\\Images\\06.webp"
+    },
+    {
       "Id": "D:\\powersoft\\Store\\wwwroot\\Images\\0_1RJ5Wvyh4vzbRZ3o.png",
       "PackagePath": "staticwebassets\\Images\\0_1RJ5Wvyh4vzbRZ3o.png"
     },
     {
       "Id": "D:\\powersoft\\Store\\wwwroot\\Images\\0_1RJ5Wvyh4vzbRZ3o_7.png",
       "PackagePath": "staticwebassets\\Images\\0_1RJ5Wvyh4vzbRZ3o_7.png"
+    },
+    {
+      "Id": "D:\\powersoft\\Store\\wwwroot\\Images\\717kxMoZiAL._AC_UY1100_.jpg",
+      "PackagePath": "staticwebassets\\Images\\717kxMoZiAL._AC_UY1100_.jpg"
     },
     {
       "Id": "D:\\powersoft\\Store\\wwwroot\\css\\site.css",

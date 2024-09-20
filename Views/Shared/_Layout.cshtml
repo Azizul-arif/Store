@@ -52,7 +52,7 @@
                 <div class="offcanvas-body primary-menu">
                     <ul class="navbar-nav justify-content-start flex-grow-1 gap-1">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.html">Home</a>
+                            <a class="nav-link" asp-action="Index" asp-controller="Home">Home</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle dropdown-toggle-nocaret" href="tv-shows.html"
@@ -173,13 +173,10 @@
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle dropdown-toggle-nocaret" href="javascript:;" data-bs-toggle="dropdown">
-                                Blog
+                            <a class="nav-link dropdown-toggle dropdown-toggle-nocaret" asp-action="Index" asp-controller="Admin">
+                                Admin
                             </a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="blog-post.html">Blog Post</a></li>
-                                <li><a class="dropdown-item" href="blog-read.html">Blog Read</a></li>
-                            </ul>
+                            
                         </li>
                     </ul>
                 </div>
@@ -326,9 +323,9 @@
         </section>
         <!--end carousel-->
         <!--Render Body-->
-        <main>
+        <section class="section-padding">
             @RenderBody()
-        </main>
+        </section>
         <!--Render Body-->
         <!--start Featured Products slider-->
         <section class="section-padding">
