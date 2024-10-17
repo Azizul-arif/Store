@@ -1,0 +1,51 @@
+﻿@model IEnumerable< Microsoft.AspNetCore.Identity.IdentityRole>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container my-2">
+    <h3 class="card-header"><a class="btn btn-info" asp-action="Create" asp-controller="RoleManager">Add Role</a></h3>
+</div>
+@if (Model != null && Model.Any())
+{
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <table id="example2" class="table table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model) 
+                                    {
+                                        <tr>
+                                            <td>@item.Name</td>
+                                            <td>
+                                                <ul class="list-inline">
+                                                    <li class="list-inline-item"><a class="btn btn-primary" asp-action="Edit" asp-controller="RoleManager" asp-route-name="@item.Name">Edit</a></li>
+                                                    <li class="list-inline-item"><a class="btn btn-danger" asp-action="Delete" asp-controller="RoleManager" asp-route-name="@item.Name">Delete</a></li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    }
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+}
+else
+{
+    <p>No Role Found</p>
+}

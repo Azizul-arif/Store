@@ -1,0 +1,33 @@
+﻿
+@model Ecommerce.ViewModels.UserProfile
+
+@{
+    Layout = "~/views/Shared/_AdminLayout.cshtml";
+}
+
+    <a asp-action="CreateProfile" asp-controller="ManageUser"></a>
+
+    <!--Start Profile Views-->
+<div class="col-12 col-xl-9">
+    <div class="card rounded-0">
+        <div class="card-body p-lg-5">
+            <h5 class="mb-0 fw-bold">Profile Details</h5>
+            <hr>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <tbody>
+                        <tr>
+                            <td>Full Name</td>
+                            <td>@Model.FullName</td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="">
+                <button type="button" class="btn btn-outline-dark btn-ecomm px-5"><i class="bi bi-pencil me-2"></i>Edit</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!--End Profile Views-->

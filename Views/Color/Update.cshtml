@@ -1,0 +1,17 @@
+﻿@model Ecommerce.Data.Color
+
+<div class="card">
+    <div class="card-body">
+        <form method="post" asp-action="Update">
+            <input asp-for="Id" hidden />
+            <div class="form-group">
+                <div class="col-md-4 col-lg-4 col-sm-12">
+                    <label asp-for="Name"></label>
+                    <input type="text" class="form-control" asp-for="Name" />
+                    <span asp-validation-for="Name"></span>
+                </div>
+            </div>
+            <button class="btn btn-primary my-2" type="submit">Update</button>
+        </form>
+    </div>
+</div>
