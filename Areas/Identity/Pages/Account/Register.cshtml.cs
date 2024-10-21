@@ -31,7 +31,7 @@ namespace Ecommerce.Areas.Identity.Pages.Account
             UserManager<ApplicationUser> userManager,
             SignInManager<ApplicationUser> signInManager,
             ILogger<RegisterModel> logger,
-            IEmailSender emailSender,RoleManager<IdentityRole>roleManager)
+            RoleManager<IdentityRole>roleManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;

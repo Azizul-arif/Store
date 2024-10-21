@@ -813,3 +813,4 @@ D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\re
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.pdb
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.genruntimeconfig.cache
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\ref\Ecommerce.dll
+D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.sourcelink.json
