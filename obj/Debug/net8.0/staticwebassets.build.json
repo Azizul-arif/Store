@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2ArHou36SxUUXqFOgs4KWlnHYKFjbzEzy55Qd8SkeiY=",
+  "Hash": "Yam0TDha2BArkeCDxYwFwmnzxsh5/sEb8Zt9kp9Sgn8=",
   "Source": "Ecommerce",
   "BasePath": "_content/Ecommerce",
   "Mode": "Default",
@@ -42537,6 +42537,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\defa1409d63c6c3bccc20a8c8f9546c4.jpg"
+    },
+    {
+      "Identity": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\wwwroot\\Images\\fb03d52cc4b9e436ad80469d4d7e3543.jpg",
+      "SourceId": "Ecommerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\wwwroot\\",
+      "BasePath": "_content/Ecommerce",
+      "RelativePath": "Images/fb03d52cc4b9e436ad80469d4d7e3543.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\fb03d52cc4b9e436ad80469d4d7e3543.jpg"
     },
     {
       "Identity": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\wwwroot\\Images\\mobile-app-picture (1).png",
