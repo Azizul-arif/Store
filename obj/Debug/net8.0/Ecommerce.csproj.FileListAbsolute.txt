@@ -797,6 +797,7 @@ D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ec
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.RazorAssemblyInfo.cache
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.RazorAssemblyInfo.cs
+D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.sourcelink.json
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\staticwebassets.build.json
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\staticwebassets.development.json
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\staticwebassets\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
@@ -813,4 +814,3 @@ D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\re
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.pdb
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.genruntimeconfig.cache
 D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\ref\Ecommerce.dll
-D:\powersoft\ProjectEcom\Store-02FormFiles\Store-02FormFiles\obj\Debug\net8.0\Ecommerce.sourcelink.json

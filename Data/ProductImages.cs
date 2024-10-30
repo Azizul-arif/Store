@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Ecommerce.Data
 {
@@ -10,6 +11,7 @@ namespace Ecommerce.Data
         public List<IFormFile>? Image { get; set; }
         [ForeignKey("Product")]
         public int ProductID { get; set; }
+        [JsonIgnore]
         public Product? Product { get; set; }
     }
 }

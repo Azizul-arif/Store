@@ -3,60 +3,52 @@
   "WorkspaceRootPath": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\sessionhelper\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:sessionhelper\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\data\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:data\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\data\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:data\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\controllers\\rolemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:controllers\\rolemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\rolemanager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\rolemanager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\rolemanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\rolemanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|d:\\powersoft\\projectecom\\store-02formfiles\\store-02formfiles\\views\\rolemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D80A446-ABAD-4C9B-942E-9B2A0599945A}|Ecommerce.csproj|solutionrelative:views\\rolemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -76,109 +68,137 @@
               "RelativeDocumentMoniker": "Data\\Product.cs",
               "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Data\\Product.cs",
               "RelativeToolTip": "Data\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAiAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:50:43.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "Views\\Home\\Details.cshtml",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAAAOkAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T08:49:10.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAMwHsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T08:47:16.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvxsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:47:11.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T04:03:42.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAowBAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T06:39:45.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T06:36:49.759Z",
+              "WhenOpened": "2024-10-30T03:37:39.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T06:36:46.618Z",
+              "WhenOpened": "2024-10-30T03:27:04.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Data\\Cart.cs",
+              "RelativeDocumentMoniker": "Data\\Cart.cs",
+              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Data\\Cart.cs",
+              "RelativeToolTip": "Data\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:50:08.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImages.cs",
+              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Data\\ProductImages.cs",
+              "RelativeDocumentMoniker": "Data\\ProductImages.cs",
+              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Data\\ProductImages.cs",
+              "RelativeToolTip": "Data\\ProductImages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:55:02.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAiwFcAAADhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T02:48:52.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:48:44.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T05:37:38.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAjwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:01:42.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Data\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Data\\ShoppingCart.cs",
+              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Data\\ShoppingCart.cs",
+              "RelativeToolTip": "Data\\ShoppingCart.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:50:51.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\SessionHelper\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "SessionHelper\\SessionHelper.cs",
+              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\SessionHelper\\SessionHelper.cs",
+              "RelativeToolTip": "SessionHelper\\SessionHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:36:10.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAN4AAAAAAAAAAAAYwOIAAAAaAAAA",
+              "ViewState": "AQIAAIAAAAAAAAAAAAD4v4oAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-16T06:31:51.538Z"
             },
@@ -193,55 +213,6 @@
               "ViewState": "AQIAAFABAAAAAAAAAAAEwGwBAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-14T18:35:51.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\RoleManager\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\RoleManager\\Delete.cshtml",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\RoleManager\\Delete.cshtml",
-              "RelativeToolTip": "Views\\RoleManager\\Delete.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T17:49:00.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\RoleManager\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\RoleManager\\Index.cshtml",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\RoleManager\\Index.cshtml",
-              "RelativeToolTip": "Views\\RoleManager\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T11:51:24.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\RoleManager\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\RoleManager\\Edit.cshtml",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Views\\RoleManager\\Edit.cshtml",
-              "RelativeToolTip": "Views\\RoleManager\\Edit.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBUAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T17:34:13.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RoleManagerController.cs",
-              "DocumentMoniker": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Controllers\\RoleManagerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoleManagerController.cs",
-              "ToolTip": "D:\\powersoft\\ProjectEcom\\Store-02FormFiles\\Store-02FormFiles\\Controllers\\RoleManagerController.cs",
-              "RelativeToolTip": "Controllers\\RoleManagerController.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAowE4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:32:28.564Z",
-              "EditorCaption": ""
             }
           ]
         }

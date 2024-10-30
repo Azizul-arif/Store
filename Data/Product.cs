@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Ecommerce.Data
 {
@@ -14,6 +15,7 @@ namespace Ecommerce.Data
         [ForeignKey("Category")]
         public int CategoryId { get; set; }
         public Category? Category { get; set; }
+        [JsonIgnore]
         public List<ProductImages> ProductImages { get; set; }
         
     }

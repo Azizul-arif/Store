@@ -85,7 +85,7 @@
                         </div>
                         <div class="cart-buttons mt-3">
                             <div class="buttons d-flex flex-column flex-lg-row gap-3 mt-4">
-                                <a href="javascript:;" class="btn btn-lg btn-dark btn-ecomm px-5 py-3 col-lg-6"><i class="bi bi-basket2 me-2"></i>Add to Bag</a>
+                                <a asp-action="AddToCart" asp-controller="ShoppingCart" asp-route-productId="@Model.Id" class="btn btn-lg btn-dark btn-ecomm px-5 py-3 col-lg-6"><i class="bi bi-basket2 me-2"></i>Add to Bag</a>
                                 <a href="javascript:;" class="btn btn-lg btn-outline-dark btn-ecomm px-5 py-3"><i class="bi bi-suit-heart me-2"></i>Wishlist</a>
                             </div>
                         </div>

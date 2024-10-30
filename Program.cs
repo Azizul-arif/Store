@@ -24,6 +24,7 @@ namespace Ecommerce
             builder.Services.AddControllersWithViews();
             builder.Services.AddRazorPages();
 			builder.Services.AddSession();
+			builder.Services.AddSingleton<ShoppingCart>();
             
             var app = builder.Build();
 
